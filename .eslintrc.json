@@ -1,0 +1,11 @@
+{
+  "extends": ["standard"],
+  "plugins": ["html"],
+  "rules": {
+    "indent": ["error", 2, { "SwitchCase": 1 }]
+  },
+  "globals": {
+    "Vue": true,
+    "_": true
+  }
+}
