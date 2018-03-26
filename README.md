@@ -25,4 +25,4 @@ git push heroku master
 ```
 
 ## Production version URL
-[https://tv-program-manipulator.herokuapp.com/](https://tv-program-manipulator.com/)
+[https://tv-program-manipulator.herokuapp.com/](https://tv-program-manipulator.herokuapp.com/)
